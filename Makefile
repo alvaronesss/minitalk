@@ -5,7 +5,7 @@
 #                                     CONFIG                                   #
 NAME_CLIENT        := client
 NAME_SERVER        := server
-CC                 := gcc
+CC                 := clang
 FLAGS              := -Wall -Wextra -Werror -g #-fsanitize=address,undefined
 
 ################################################################################
